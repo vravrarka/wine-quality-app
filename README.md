@@ -1,3 +1,6 @@
+## Деплой приложения на Streamlit Community Cloud
+**Ссылка:** https://wine-quality-varvara.streamlit.app/
+
 ## Требования
 Python: 3.13.15
 
